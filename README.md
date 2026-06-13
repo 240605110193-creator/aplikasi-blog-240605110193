@@ -3,8 +3,8 @@
 Tugas UAS Pemrograman Web - Sistem Manajemen Blog menggunakan Laravel dan database `db_blog`.
 
 ## Identitas Mahasiswa
-- **Nama**: [Palmeda Abigail Yunta Paris]
-- **NIM**: [240605110191]
+- **Nama**: [daffa ali darajat s p]
+- **NIM**: [240605110193]
 
 ## Deskripsi Aplikasi
 Aplikasi ini adalah Sistem Manajemen Blog (CMS) yang dikembangkan dengan framework Laravel 11. Aplikasi terdiri dari dua area utama:
